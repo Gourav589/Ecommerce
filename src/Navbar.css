@@ -1,0 +1,110 @@
+*{
+    margin:0;
+    padding:0;
+    }
+    
+    .navbar{
+    display:flex;
+    background-color:rgb(232, 133, 108);
+    justify-content: space-evenly;
+    
+    }
+  
+    .logo img{
+      height:110px;
+      width:180px;
+
+    
+      
+    }
+ 
+    .search-bar{
+        display:flex;
+      box-shadow: 100px;
+        padding:20px ;
+        margin-top:20px;  
+      
+    }
+    .search-bar input{
+        background:rgb(239, 234, 234);
+        font-size:20px;
+        
+        width:500px;
+        height:40px;
+        
+    
+    }
+    .search-bar img{
+      padding:5px;
+        height:30px;
+    
+
+    }
+    .login ul li {
+      border:1px solid;
+    border-color:white;
+    text-align: center;
+     width:100px;
+     margin-top:20px;
+     
+    
+    
+    font-size:20px ;
+    list-style: none;
+    background:white;
+    }
+    .login ul li a{
+      text-decoration: none;
+      color:black;
+    
+      
+    }
+    
+
+    .become ul{
+      list-style: none;
+    margin-top:20px;
+    
+    
+    
+    }
+    .become ul li a{
+      text-decoration: none;
+      color:white;
+      font-size:25px;
+    }
+
+    .more ul{
+      list-style: none;
+    margin-top:20px;
+    display: flex;
+    }
+    .more ul li a{
+      text-decoration: none;
+      color:white;
+      font-size:25px;
+    }
+    .more ul img{
+      height: 10px;
+    margin:10px;
+    }
+
+    .cart img{
+    height:30px;
+    margin-top:8px;
+  
+    }
+    .cart{
+      display: flex;
+    margin-top:20px;
+    }
+    .cart ul{
+      list-style:none;
+      text-decoration: none;
+      
+    }
+    .cart ul li a{
+      text-decoration: none;
+      color:white;
+      font-size:25px;
+    }

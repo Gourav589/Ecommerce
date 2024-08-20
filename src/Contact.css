@@ -1,0 +1,91 @@
+*{
+  margin:0;
+  padding:0;
+  }
+.contact-bg-color{
+    background-color:rgb(245, 241, 241);
+  }
+  
+  .contact-border{
+    border:1px solid rgb(236,220,220);
+    height:800px;
+    width:100%;
+    display:flex;
+   
+  
+  }
+  .contact-box-1{
+    border:1px solid rgb(236,220,220);
+    height:670px;
+    width:300px;
+    margin-top:30px;
+   margin-left:95px;
+   background-color:rgb(255, 255, 255);
+   box-shadow:0 6px 8px -1px rgba(0,0,0,0.5); 
+  
+  }
+  .contact-box-1:hover{
+    transform:scale(1.1);
+  }
+  .contact-box-2{
+    border:1px solid rgb(241,236,236);
+    height:400px;
+    width:950px;
+  margin-top:30px;
+  background-color:rgb(255, 255, 255); 
+  box-shadow:0 6px 8px -1px rgba(0,0,0,0.5); 
+  
+  
+  }
+  .contact-box-3{
+    border:1px solid rgb(244,240,240);
+    height:340px;
+    width:950px;
+   margin-top:10px;
+   background-color:rgb(255, 255, 255);
+   box-shadow:0 6px 8px -1px rgba(0,0,0,0.5); 
+  }
+  .contact-border-2{
+    display:block;
+  margin-right: 125px;
+  
+  }
+  
+  .contact-box-1 ul li{
+  text-align:center;
+  list-style: none;
+  
+  }
+  .contact-box-1 ul li a{
+  color:black;
+  text-decoration: none;
+  }
+  
+  .contact-box-2 img{
+  margin-left:270px;
+    height:200px;
+    width:200px;  
+  }
+  .contact-text-1{
+    padding-top:3%;
+    padding-left:25%;
+  }
+  .contact-box-2 button{
+  margin-top:3%;
+    margin-left:34%;
+    height:50px;
+    width:150px;
+    background-color:orangered;
+  }
+  .contact-box-3 ul{
+  padding-left:20px;
+  }
+  .contact-box-3 ul li {
+  list-style:none
+  
+  }
+  .contact-box-3 ul li a{
+    text-decoration:none;
+    color:black;
+  } 
+  
